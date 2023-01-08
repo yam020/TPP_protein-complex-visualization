@@ -5,8 +5,8 @@
 TPP protein complex visualization is a webapp built with shiny. The main purpose of this app is to visualize the protein complex from TPP experiment.
 <br>![alt text](https://github.com/yam020/TPP_protein-complex-visualization/blob/main/output/Overall.png)
 
-Users are able to select protein complex based on melting curve similarity (Complex: Adjusted p value). Protieins within protein complex can be selected based on their R square of the cruve fit (Protein: R sq. Proteins can be further selected by user's input. 
-Plot on the right will then reflect users' input.
+Users are able to select protein complex based on melting curve similarity (Complex: Adjusted p value). Protieins within protein complex can be selected based on their R square of the cruve fit (Protein: R sq). Proteins can be further selected by user's input. 
+Plot on the right will then reflect these input.
 <br>![alt text](https://github.com/yam020/TPP_protein-complex-visualization/blob/main/output/Plot%20area.png)
 
 Table below the plot contains normalized relative protein-fold changes of selected proteins. Table also contains the parameters and the coefficient of determination R^2 of the fitted melting curve of each selected protien.
