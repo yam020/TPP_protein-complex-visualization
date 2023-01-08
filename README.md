@@ -29,5 +29,5 @@ install.packages("shiny")
 Step 3: run the app 
 ```bash
 library(shiny)
-runApp("/path/to/my/directory/TPP_protein-complex-visualization")
+runApp("/path/to/my/directory/TPP_protein-complex-visualization/TPP_complex_visualization")
 ```
